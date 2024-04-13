@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "your_build_command_here",
+    "build": "npm run build",
     "start": "app.js"
   },
   "repository": {
